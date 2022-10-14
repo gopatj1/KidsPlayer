@@ -1,0 +1,798 @@
+[
+  {
+    "id": "6",
+    "number": "1",
+    "title": "Выпуск 1 \"Рубин\"",
+    "image": "http://gs.irev.ru/chapter/6.jpg?1318948986",
+    "image2x": "http://gs.irev.ru/chapter/2x_6.jpg?1318948986",
+    "imageIPad": "http://gs.irev.ru/chapter/ipad_6.jpg?1318948986",
+    "topBarImageIPad": "http://gs.irev.ru/chapter/tbiipad_6.png",
+    "topBarImage2x": "http://gs.irev.ru/chapter/tbi2x_6.png",
+    "topBarImage": "http://gs.irev.ru/chapter/tbi_6.png",
+    "productId": "com.iRevolution.GoraSamocvetov.volume1",
+    "episodes": {
+      "episode": [
+        {
+          "id": "11",
+          "number": "1",
+          "title": "Кот и лиса",
+          "description": "По мотивам русской сказки (Вологда). Мужик выбросил кота из дому в лес. Кот нашел себе жилье в лесу, познакомился с лисой и сказал, что отныне он воевода этих мест. Лиса и кот поженились, лиса стала его кормить и ухаживать за ним. Она рассказала про мужа-кота разные страшные истории волку и медведю, и они решили с ним познакомиться.",
+          "image": "http://gs.irev.ru/episode/11.jpg",
+          "image2x": "http://gs.irev.ru/episode/2x_11.jpg",
+          "imageIPad": "http://gs.irev.ru/episode/ipad_11.jpg",
+          "free": "YES",
+          "videoURL": "http://gs2.irev.ru/upload/videos/video/source/Kolobok.mp4",
+          "videoURL2x": "http://gs.irev.ru/episode/video2x_11.mp4"
+        },
+        {
+          "id": "10",
+          "number": "2",
+          "title": "Про барана и козла",
+          "description": "По мотивам карельских сказок. Любопытный, прыткий и сообразительный Козёл спасает своего друга — упёртого, ленивого и ворчливого Барана, когда того хотел зарезать хозяин. Вдвоём они сбежали от хозяина и ушли в лес в поисках другой жизни.",
+          "image": "http://gs.irev.ru/episode/10.jpg",
+          "image2x": "http://gs.irev.ru/episode/2x_10.jpg",
+          "imageIPad": "http://gs.irev.ru/episode/ipad_10.jpg",
+          "free": "NO",
+          "videoURL": "http://www.html5videoplayer.net/videos/toystory.mp4",
+          "videoURL2x": "http://gs.irev.ru/episode/video2x_10.mp4"
+        },
+        {
+          "id": "9",
+          "number": "3",
+          "title": "Шейдулла-лентяй",
+          "description": "По мотивам дагестанской сказки. Сказка про разгильдяя Шейдуллу, и про то, как его жена послала к Большому Мудрецу.",
+          "image": "http://gs.irev.ru/episode/9.jpg",
+          "image2x": "http://gs.irev.ru/episode/2x_9.jpg",
+          "imageIPad": "http://gs.irev.ru/episode/ipad_9.jpg",
+          "free": "NO",
+          "videoURL": "http://redirect.1tv.ru/video/multibitrate/video/2016/12/16/72638d73-b0bc-469d-9c89-c24b04533c94_20161216_Pletnev_950.mp4",
+          "videoURL2x": "http://gs.irev.ru/episode/video2x_9.mp4"
+        },
+        {
+          "id": "12",
+          "number": "4",
+          "title": "Толкование сновидений",
+          "description": "По мотивам татарской сказки. Сказка про то, как благодаря предсказанию мудреца Хан раскрыл коварные планы заговорщиков и сделал так, что они сами себя наказали…",
+          "image": "http://gs.irev.ru/episode/12.jpg?1318949213",
+          "image2x": "http://gs.irev.ru/episode/2x_12.jpg?1318949213",
+          "imageIPad": "http://gs.irev.ru/episode/ipad_12.jpg?1318949213",
+          "free": "NO",
+          "videoURL": "http://redirect.1tv.ru/video/multibitrate/video/2016/12/16/6db3b2d8-2be0-438c-8085-ccd4a18a3382_Suxanov_20161216_950.mp4",
+          "videoURL2x": "http://gs.irev.ru/episode/video2x_12.mp4"
+        },
+        {
+          "id": "13",
+          "number": "5",
+          "title": "Как пан конем был",
+          "description": "По мотивам белорусской сказки. Сказка про то, как злой и жадный пан претерпел злоключения и исправился.",
+          "image": "http://gs.irev.ru/episode/13.jpg",
+          "image2x": "http://gs.irev.ru/episode/2x_13.jpg",
+          "imageIPad": "http://gs.irev.ru/episode/ipad_13.jpg",
+          "free": "NO",
+          "videoURL": "http://redirect.1tv.ru/video/multibitrate/video/2016/11/30/2cf42237-e0b5-478b-9ad8-c0728331bf7c_20161130_Kaskaderi3_950.mp4",
+          "videoURL2x": "http://gs.irev.ru/episode/video2x_13.mp4"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7",
+    "number": "2",
+    "title": "Выпуск 2  \"Изумруд\"",
+    "image": "http://gs.irev.ru/chapter/7.jpg",
+    "image2x": "http://gs.irev.ru/chapter/2x_7.jpg",
+    "imageIPad": "http://gs.irev.ru/chapter/ipad_7.jpg",
+    "topBarImageIPad": "http://gs.irev.ru/chapter/tbiipad_7.png",
+    "topBarImage2x": "http://gs.irev.ru/chapter/tbi2x_7.png",
+    "topBarImage": "http://gs.irev.ru/chapter/tbi_7.png",
+    "productId": "com.iRevolution.GoraSamocvetov.volume2",
+    "episodes": {
+      "episode": [
+        {
+          "id": "14",
+          "number": "1",
+          "title": "Умная дочка",
+          "description": "По мотивам русской сказки (Воронеж). Сказка о маленькой девочке, которая отстояла честь своего отца, устыдила царя и поставила жадного дядьку на место.",
+          "image": "http://gs.irev.ru/episode/14.jpg",
+          "image2x": "http://gs.irev.ru/episode/2x_14.jpg",
+          "imageIPad": "http://gs.irev.ru/episode/ipad_14.jpg",
+          "free": "YES",
+          "videoURL": "http://gs.irev.ru/episode/video_14.mp4",
+          "videoURL2x": "http://gs.irev.ru/episode/video2x_14.mp4"
+        },
+        {
+          "id": "15",
+          "number": "2",
+          "title": "Про Ивана-дурака",
+          "description": "По мотивам русской сказки (Ярославль). Сказка про то, как Иван козу продавал и дверь стерег, да внезапно женился на царевне.",
+          "image": "http://gs.irev.ru/episode/15.jpg",
+          "image2x": "http://gs.irev.ru/episode/2x_15.jpg",
+          "imageIPad": "http://gs.irev.ru/episode/ipad_15.jpg",
+          "free": "NO",
+          "videoURL": "http://gs.irev.ru/episode/video_15.mp4",
+          "videoURL2x": "http://gs.irev.ru/episode/video2x_15.mp4"
+        },
+        {
+          "id": "16",
+          "number": "3",
+          "title": "Про ворона",
+          "description": "По мотивам эскимосской сказки. Сказка про то, как медведь и охотник друг другу сказки рассказывали.",
+          "image": "http://gs.irev.ru/episode/16.jpg",
+          "image2x": "http://gs.irev.ru/episode/2x_16.jpg",
+          "imageIPad": "http://gs.irev.ru/episode/ipad_16.jpg",
+          "free": "NO",
+          "videoURL": "http://gs.irev.ru/episode/video_16.mp4",
+          "videoURL2x": "http://gs.irev.ru/episode/video2x_16.mp4"
+        },
+        {
+          "id": "17",
+          "number": "4",
+          "title": "Лиса-сирота",
+          "description": "По мотивам татарской сказки. Сказка про то, как в дружном коллективе зверей завелась хитрая и жадная лиса.",
+          "image": "http://gs.irev.ru/episode/17.jpg",
+          "image2x": "http://gs.irev.ru/episode/2x_17.jpg",
+          "imageIPad": "http://gs.irev.ru/episode/ipad_17.jpg",
+          "free": "NO",
+          "videoURL": "http://gs.irev.ru/episode/video_17.mp4",
+          "videoURL2x": "http://gs.irev.ru/episode/video2x_17.mp4"
+        },
+        {
+          "id": "18",
+          "number": "5",
+          "title": "Жадная мельничиха",
+          "description": "По мотивам украинской сказки. Сказка про то, как мельник и его жена поплатились за свою жадность.",
+          "image": "http://gs.irev.ru/episode/18.jpg?1318949090",
+          "image2x": "http://gs.irev.ru/episode/2x_18.jpg?1318949090",
+          "imageIPad": "http://gs.irev.ru/episode/ipad_18.jpg?1318949090",
+          "free": "NO",
+          "videoURL": "http://gs.irev.ru/episode/video_18.mp4",
+          "videoURL2x": "http://gs.irev.ru/episode/video2x_18.mp4"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8",
+    "number": "3",
+    "title": "Выпуск 3 \"Аметист\"",
+    "image": "http://gs.irev.ru/chapter/8.jpg?1318949683",
+    "image2x": "http://gs.irev.ru/chapter/2x_8.jpg?1318949683",
+    "imageIPad": "http://gs.irev.ru/chapter/ipad_8.jpg?1318949683",
+    "topBarImageIPad": "http://gs.irev.ru/chapter/tbiipad_8.png",
+    "topBarImage2x": "http://gs.irev.ru/chapter/tbi2x_8.png",
+    "topBarImage": "http://gs.irev.ru/chapter/tbi_8.png",
+    "productId": "com.iRevolution.GoraSamocvetov.volume3",
+    "episodes": {
+      "episode": [
+        {
+          "id": "19",
+          "number": "1",
+          "title": "Злыдни",
+          "description": "По мотивам гуцульской сказки. Сказка про то, как в доме Петра и Марфы поселились маленькие вредители - злыдни, и их семья справилась с напастью, а завистливые соседи нажили себе бед.",
+          "image": "http://gs.irev.ru/episode/19.jpg?1318949322",
+          "image2x": "http://gs.irev.ru/episode/2x_19.jpg?1318949322",
+          "imageIPad": "http://gs.irev.ru/episode/ipad_19.jpg?1318949322",
+          "free": "NO",
+          "videoURL": "http://gs.irev.ru/episode/video_19.mp4",
+          "videoURL2x": "http://gs.irev.ru/episode/video2x_19.mp4"
+        },
+        {
+          "id": "20",
+          "number": "2",
+          "title": "Петр и Петруша",
+          "description": "По мотивам русской сказки (Санкт-Петербург). Сказка про то, как царь Петр Великий встретил простого солдата, и оказалось, что солдатская наука и царям бывает полезна!",
+          "image": "http://gs.irev.ru/episode/20.jpg",
+          "image2x": "http://gs.irev.ru/episode/2x_20.jpg",
+          "imageIPad": "http://gs.irev.ru/episode/ipad_20.jpg",
+          "free": "NO",
+          "videoURL": "http://gs.irev.ru/episode/video_20.mp4",
+          "videoURL2x": "http://gs.irev.ru/episode/video2x_20.mp4"
+        },
+        {
+          "id": "21",
+          "number": "3",
+          "title": "Птичья нога",
+          "description": "По мотивам башкирской сказки. Сказка про то, как когда-то злой колдун Дэв превращал детей в птиц, а девочка Галия смогла спастись и выручить из беды остальных.",
+          "image": "http://gs.irev.ru/episode/21.jpg",
+          "image2x": "http://gs.irev.ru/episode/2x_21.jpg",
+          "imageIPad": "http://gs.irev.ru/episode/ipad_21.jpg",
+          "free": "NO",
+          "videoURL": "http://gs.irev.ru/episode/video_21.mp4",
+          "videoURL2x": "http://gs.irev.ru/episode/video2x_21.mp4"
+        },
+        {
+          "id": "22",
+          "number": "4",
+          "title": "Как обманули змея",
+          "description": "По мотивам нивхской сказки (Сахалин). Сказка про то, как птицы наказали Змея, воровавшего яйца из их гнезда.",
+          "image": "http://gs.irev.ru/episode/22.jpg",
+          "image2x": "http://gs.irev.ru/episode/2x_22.jpg",
+          "imageIPad": "http://gs.irev.ru/episode/ipad_22.jpg",
+          "free": "NO",
+          "videoURL": "http://gs.irev.ru/episode/video_22.mp4",
+          "videoURL2x": "http://gs.irev.ru/episode/video2x_22.mp4"
+        },
+        {
+          "id": "23",
+          "number": "5",
+          "title": "Царь и ткач",
+          "description": "По мотивам армянской сказки. Сказка про то, как простой ткач оказался мудрее мудрецов, а от его смекалки зависит судьба целого царства.",
+          "image": "http://gs.irev.ru/episode/23.jpg?1318949344",
+          "image2x": "http://gs.irev.ru/episode/2x_23.jpg?1318949344",
+          "imageIPad": "http://gs.irev.ru/episode/ipad_23.jpg?1318949344",
+          "free": "NO",
+          "videoURL": "http://gs.irev.ru/episode/video_23.mp4",
+          "videoURL2x": "http://gs.irev.ru/episode/video2x_23.mp4"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9",
+    "number": "4",
+    "title": "Выпуск 4 \"Янтарь\"",
+    "image": "http://gs.irev.ru/chapter/9.jpg",
+    "image2x": "http://gs.irev.ru/chapter/2x_9.jpg",
+    "imageIPad": "http://gs.irev.ru/chapter/ipad_9.jpg",
+    "topBarImageIPad": "http://gs.irev.ru/chapter/tbiipad_9.png",
+    "topBarImage2x": "http://gs.irev.ru/chapter/tbi2x_9.png",
+    "topBarImage": "http://gs.irev.ru/chapter/tbi_9.png",
+    "productId": "com.iRevolution.GoraSamocvetov.volume4",
+    "episodes": {
+      "episode": [
+        {
+          "id": "24",
+          "number": "1",
+          "title": "Лис и дрозд",
+          "description": "По мотивам украинской сказки. Сказка про то, как хитрый и жадный Лис стал жить на дереве и панически бояться птиц.",
+          "image": "http://gs.irev.ru/episode/24.jpg?1318949385",
+          "image2x": "http://gs.irev.ru/episode/2x_24.jpg?1318949385",
+          "imageIPad": "http://gs.irev.ru/episode/ipad_24.jpg?1318949385",
+          "free": "NO",
+          "videoURL": "http://gs.irev.ru/episode/video_24.mp4",
+          "videoURL2x": "http://gs.irev.ru/episode/video2x_24.mp4"
+        },
+        {
+          "id": "25",
+          "number": "2",
+          "title": "Шиш",
+          "description": "По мотивам русской сказки (Тула). Сказка про то, как озорной и насмешливый Шиш такие небылицы придумывал, что вечно оставлял с носом своих жадных братьев.",
+          "image": "http://gs.irev.ru/episode/25.jpg",
+          "image2x": "http://gs.irev.ru/episode/2x_25.jpg",
+          "imageIPad": "http://gs.irev.ru/episode/ipad_25.jpg",
+          "free": "NO",
+          "videoURL": "http://gs.irev.ru/episode/video_25.mp4",
+          "videoURL2x": "http://gs.irev.ru/episode/video2x_25.mp4"
+        },
+        {
+          "id": "26",
+          "number": "3",
+          "title": "Большой петух",
+          "description": "По мотивам русской сказки (Псков). Сказка про то, что петух не умел нести яиц, зато помог своему хозяину получить дом, сад, мельницу, да еще и жадного барина проучил.",
+          "image": "http://gs.irev.ru/episode/26.jpg",
+          "image2x": "http://gs.irev.ru/episode/2x_26.jpg",
+          "imageIPad": "http://gs.irev.ru/episode/ipad_26.jpg",
+          "free": "NO",
+          "videoURL": "http://gs.irev.ru/episode/video_26.mp4",
+          "videoURL2x": "http://gs.irev.ru/episode/video2x_26.mp4"
+        },
+        {
+          "id": "27",
+          "number": "4",
+          "title": "Не скажу!",
+          "description": "По мотивам русской сказки (Ростов). Сказка про то, как упрямец Ваня женился на царевне Марье, а царевичу Василию помог взять в жены Елену Прекрасную.",
+          "image": "http://gs.irev.ru/episode/27.jpg",
+          "image2x": "http://gs.irev.ru/episode/2x_27.jpg",
+          "imageIPad": "http://gs.irev.ru/episode/ipad_27.jpg",
+          "free": "NO",
+          "videoURL": "http://gs.irev.ru/episode/video_27.mp4",
+          "videoURL2x": "http://gs.irev.ru/episode/video2x_27.mp4"
+        },
+        {
+          "id": "28",
+          "number": "5",
+          "title": "Ворон-обманщик",
+          "description": "По мотивам ительменской сказки (Камчатка). Сказка про то, как Ворон обманывал всех вокруг, таская улов у соседей, пока звери и человек, в конце концов, не перехитрили его самого.",
+          "image": "http://gs.irev.ru/episode/28.jpg",
+          "image2x": "http://gs.irev.ru/episode/2x_28.jpg",
+          "imageIPad": "http://gs.irev.ru/episode/ipad_28.jpg",
+          "free": "NO",
+          "videoURL": "http://gs.irev.ru/episode/video_28.mp4",
+          "videoURL2x": "http://gs.irev.ru/episode/video2x_28.mp4"
+        }
+      ]
+    }
+  },
+  {
+    "id": "10",
+    "number": "5",
+    "title": "Выпуск 5 \"Сапфир\"",
+    "image": "http://gs.irev.ru/chapter/10.jpg?1318949705",
+    "image2x": "http://gs.irev.ru/chapter/2x_10.jpg?1318949705",
+    "imageIPad": "http://gs.irev.ru/chapter/ipad_10.jpg?1318949705",
+    "topBarImageIPad": "http://gs.irev.ru/chapter/tbiipad_10.png",
+    "topBarImage2x": "http://gs.irev.ru/chapter/tbi2x_10.png",
+    "topBarImage": "http://gs.irev.ru/chapter/tbi_10.png",
+    "productId": "com.iRevolution.GoraSamocvetov.volume5",
+    "episodes": {
+      "episode": [
+        {
+          "id": "29",
+          "number": "1",
+          "title": "Мальчик с пальчик",
+          "description": "По мотивам белорусской сказки. Сказка про то, как в сельской семье появился сын - Мальчик с пальчик. Неугомонный малыш всюду пытается помочь. Но это приводит к противоположным результатам.",
+          "image": "http://gs.irev.ru/episode/29.jpg",
+          "image2x": "http://gs.irev.ru/episode/2x_29.jpg",
+          "imageIPad": "http://gs.irev.ru/episode/ipad_29.jpg",
+          "free": "YES",
+          "videoURL": "http://gs.irev.ru/episode/video_29.mp4",
+          "videoURL2x": "http://gs.irev.ru/episode/video2x_29.mp4"
+        },
+        {
+          "id": "31",
+          "number": "2",
+          "title": "Жихарка",
+          "description": "По мотивам уральской сказки. Жили-были кузнецы Кот и Воробей. И жила у них маленькая хорошенькая девочка Жихарка. Всем она была хороша, но уж шибко любила баловаться и не слушаться. Отправились как-то раз Кот и Воробей на ярмарку, и в это время Жихарку похитила хитрая Лиса, чтобы съесть. Однако, не тут-то было!",
+          "image": "http://gs.irev.ru/episode/31.jpg?1318949431",
+          "image2x": "http://gs.irev.ru/episode/2x_31.jpg?1318949431",
+          "imageIPad": "http://gs.irev.ru/episode/ipad_31.jpg?1318949431",
+          "free": "NO",
+          "videoURL": "http://gs.irev.ru/episode/video_31.mp4",
+          "videoURL2x": "http://gs.irev.ru/episode/video2x_31.mp4"
+        },
+        {
+          "id": "32",
+          "number": "3",
+          "title": "Непослушный медвежонок",
+          "description": "По мотивам эскимосской сказки (Якутия). Сказка про то, как маленький медвежонок мечтал стать евражкой, потом оленем, потом уткой... Кем же он будет?",
+          "image": "http://gs.irev.ru/episode/32.jpg?1318949441",
+          "image2x": "http://gs.irev.ru/episode/2x_32.jpg?1318949441",
+          "imageIPad": "http://gs.irev.ru/episode/ipad_32.jpg?1318949441",
+          "free": "NO",
+          "videoURL": "http://gs.irev.ru/episode/video_32.mp4",
+          "videoURL2x": "http://gs.irev.ru/episode/video2x_32.mp4"
+        },
+        {
+          "id": "30",
+          "number": "4",
+          "title": "Сердце зверя",
+          "description": "По мотивам амурской сказки (Дальний Восток). Сказка про то, что если у человека доброе и чистое сердце, он всегда останется человеком, и не важно, что внешне он выглядит зверем.",
+          "image": "http://gs.irev.ru/episode/30.jpg",
+          "image2x": "http://gs.irev.ru/episode/2x_30.jpg",
+          "imageIPad": "http://gs.irev.ru/episode/ipad_30.jpg",
+          "free": "NO",
+          "videoURL": "http://gs.irev.ru/episode/video_30.mp4",
+          "videoURL2x": "http://gs.irev.ru/episode/video2x_30.mp4"
+        },
+        {
+          "id": "33",
+          "number": "5",
+          "title": "Соловей",
+          "description": "По мотивам татарской сказки. Сказка про то, как в доме богатого купца в красивой клетке жил соловей. Ничего не жалел купец для своего соловья, но птице снилась свобода!...",
+          "image": "http://gs.irev.ru/episode/33.jpg",
+          "image2x": "http://gs.irev.ru/episode/2x_33.jpg",
+          "imageIPad": "http://gs.irev.ru/episode/ipad_33.jpg",
+          "free": "NO",
+          "videoURL": "http://gs.irev.ru/episode/video_33.mp4",
+          "videoURL2x": "http://gs.irev.ru/episode/video2x_33.mp4"
+        }
+      ]
+    }
+  },
+  {
+    "id": "11",
+    "number": "6",
+    "title": "Выпуск 6",
+    "image": "http://gs.irev.ru/chapter/11.jpg",
+    "image2x": "http://gs.irev.ru/chapter/2x_11.jpg",
+    "imageIPad": "http://gs.irev.ru/chapter/ipad_11.jpg",
+    "topBarImageIPad": "http://gs.irev.ru/chapter/tbiipad_11.png",
+    "topBarImage2x": "http://gs.irev.ru/chapter/tbi2x_11.png",
+    "topBarImage": "http://gs.irev.ru/chapter/tbi_11.png",
+    "productId": "com.iRevolution.GoraSamocvetov.volume6",
+    "episodes": {
+      "episode": [
+        {
+          "id": "34",
+          "number": "1",
+          "title": "Никита Кожемяка",
+          "description": "Сказка про то, что мифологическое чудовище Змей-Горыныч был побеждён не сказочным воином-богатырём, а простым человеком ремесленником.",
+          "image": "http://gs.irev.ru/episode/34.jpg",
+          "image2x": "http://gs.irev.ru/episode/2x_34.jpg",
+          "imageIPad": "http://gs.irev.ru/episode/ipad_34.jpg",
+          "free": "NO",
+          "videoURL": "http://gs.irev.ru/episode/video_34.mp4",
+          "videoURL2x": "http://gs.irev.ru/episode/video2x_34.mp4"
+        },
+        {
+          "id": "35",
+          "number": "2",
+          "title": "Глинька",
+          "description": "По мотивам русской сказки (Москва). Остались дед с бабкой на старости одни. Бабка огород растила, за скотиной ходила. Дед из глины людям посуду лепил: миски-тарелки, кувшины-махотки, кружки-плошки, крынки да горшки. И как-то само собой сделалось – ожил один из горшков, ох и румяный вышел сынок!",
+          "image": "http://gs.irev.ru/episode/35.jpg",
+          "image2x": "http://gs.irev.ru/episode/2x_35.jpg",
+          "imageIPad": "http://gs.irev.ru/episode/ipad_35.jpg",
+          "free": "NO",
+          "videoURL": "http://gs.irev.ru/episode/video_35.mp4",
+          "videoURL2x": "http://gs.irev.ru/episode/video2x_35.mp4"
+        },
+        {
+          "id": "36",
+          "number": "3",
+          "title": "Ловись, рыбка",
+          "description": "По мотивам украинской сказки. Сказка про то, как хитрая лиса получила по заслугам, а волк научился ловить рыбу на удочку.",
+          "image": "http://gs.irev.ru/episode/36.jpg",
+          "image2x": "http://gs.irev.ru/episode/2x_36.jpg",
+          "imageIPad": "http://gs.irev.ru/episode/ipad_36.jpg",
+          "free": "NO",
+          "videoURL": "http://gs.irev.ru/episode/video_36.mp4",
+          "videoURL2x": "http://gs.irev.ru/episode/video2x_36.mp4"
+        },
+        {
+          "id": "37",
+          "number": "4",
+          "title": "Солдат и смерть",
+          "description": "По мотивам удмурдтской сказки. Сказка про солдата Ваню, который с помощью военной смекалки и волшебных вещей победил в родном краю всю нечистую силу и даже смерть, освободил народ из плена и встретился со своей невестой.",
+          "image": "http://gs.irev.ru/episode/37.jpg",
+          "image2x": "http://gs.irev.ru/episode/2x_37.jpg",
+          "imageIPad": "http://gs.irev.ru/episode/ipad_37.jpg",
+          "free": "NO",
+          "videoURL": "http://gs.irev.ru/episode/video_37.mp4",
+          "videoURL2x": "http://gs.irev.ru/episode/video2x_37.mp4"
+        },
+        {
+          "id": "38",
+          "number": "5",
+          "title": "Заяц-слуга",
+          "description": "По мотивам татарской сказки. Сказка про то, как у труженика Хакима дом сгорел, и пошел он просить помощи у соседей, а те над ним посмеялись. И решил Хаким себя в обиду не давать.",
+          "image": "http://gs.irev.ru/episode/38.jpg",
+          "image2x": "http://gs.irev.ru/episode/2x_38.jpg",
+          "imageIPad": "http://gs.irev.ru/episode/ipad_38.jpg",
+          "free": "NO",
+          "videoURL": "http://gs.irev.ru/episode/video_38.mp4",
+          "videoURL2x": "http://gs.irev.ru/episode/video2x_38.mp4"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12",
+    "number": "7",
+    "title": "Выпуск 7",
+    "image": "http://gs.irev.ru/chapter/12.jpg?1319188363",
+    "image2x": "http://gs.irev.ru/chapter/2x_12.jpg?1319188363",
+    "imageIPad": "http://gs.irev.ru/chapter/ipad_12.jpg?1319188363",
+    "topBarImageIPad": "http://gs.irev.ru/chapter/tbiipad_12.png",
+    "topBarImage2x": "http://gs.irev.ru/chapter/tbi2x_12.png",
+    "topBarImage": "http://gs.irev.ru/chapter/tbi_12.png",
+    "productId": "com.iRevolution.GoraSamocvetov.volume7",
+    "episodes": {
+      "episode": [
+        {
+          "id": "39",
+          "number": "1",
+          "title": "Ну вот ещё!",
+          "description": "По мотивам русской сказки (Владимир). Жили-были в одной деревне муж да жена. Жена была женщина своенравная, даже можно сказать – упрямая. Что муж ни скажет – все она наоборот делает.",
+          "image": "http://gs.irev.ru/episode/39.jpg",
+          "image2x": "http://gs.irev.ru/episode/2x_39.jpg",
+          "imageIPad": "http://gs.irev.ru/episode/ipad_39.jpg",
+          "free": "NO",
+          "videoURL": "http://gs.irev.ru/episode/video_39.mp4",
+          "videoURL2x": "http://gs.irev.ru/episode/video2x_39.mp4"
+        },
+        {
+          "id": "40",
+          "number": "2",
+          "title": "Как помирились Солнце и Луна",
+          "description": "По мотивам таймырской сказки. Сказка про то, что при взаимовыручке, дружбе и согласии можно вернуть Солнце и Луну на небо, распределить между ними управление утренним и ночным светом.",
+          "image": "http://gs.irev.ru/episode/40.jpg",
+          "image2x": "http://gs.irev.ru/episode/2x_40.jpg",
+          "imageIPad": "http://gs.irev.ru/episode/ipad_40.jpg",
+          "free": "NO",
+          "videoURL": "http://gs.irev.ru/episode/video_40.mp4",
+          "videoURL2x": "http://gs.irev.ru/episode/video2x_40.mp4"
+        },
+        {
+          "id": "41",
+          "number": "3",
+          "title": "Куйгорож",
+          "description": "По мотивам мокшанской сказки (Мордовия). Главный герой – нечистая сила по имени Куйгорож, гибрид совы и змеи, один из самых странных персонажей народных преданий. Он постоянно требует у своих хозяев работу и делает за них все. На первый взгляд, этот дух полезен в хозяйстве, но на деле трудолюбивое существо оказывается настоящим бедствием.\n\t\t\t\t",
+          "image": "http://gs.irev.ru/episode/41.jpg?1319188838",
+          "image2x": "http://gs.irev.ru/episode/2x_41.jpg?1319188838",
+          "imageIPad": "http://gs.irev.ru/episode/ipad_41.jpg?1319188838",
+          "free": "NO",
+          "videoURL": "http://gs.irev.ru/episode/video_41.mp4",
+          "videoURL2x": "http://gs.irev.ru/episode/video2x_41.mp4"
+        },
+        {
+          "id": "42",
+          "number": "4",
+          "title": "Крошечка-хаврошечка",
+          "description": "По мотивам русской сказки (Курск). Девочка осталась сиротой, в наследство ей досталась корова. Девочка попадает к злой тетке и трем ее дочерям. Корова помогает Хаврошечке справиться с житейскими тяготами.",
+          "image": "http://gs.irev.ru/episode/42.jpg",
+          "image2x": "http://gs.irev.ru/episode/2x_42.jpg",
+          "imageIPad": "http://gs.irev.ru/episode/ipad_42.jpg",
+          "free": "NO",
+          "videoURL": "http://gs.irev.ru/episode/video_42.mp4",
+          "videoURL2x": "http://gs.irev.ru/episode/video2x_42.mp4"
+        },
+        {
+          "id": "43",
+          "number": "5",
+          "title": "Рыбак Оскус-Оол",
+          "description": "По мотивам тувинской сказки. Шаманские песнопения и настоящие старинные тувинские песни создают особый колорит этой истории и делают ее похожей на древнюю легенду.",
+          "image": "http://gs.irev.ru/episode/43.jpg",
+          "image2x": "http://gs.irev.ru/episode/2x_43.jpg",
+          "imageIPad": "http://gs.irev.ru/episode/ipad_43.jpg",
+          "free": "NO",
+          "videoURL": "http://gs.irev.ru/episode/video_43.mp4",
+          "videoURL2x": "http://gs.irev.ru/episode/video2x_43.mp4"
+        }
+      ]
+    }
+  },
+  {
+    "id": "13",
+    "number": "8",
+    "title": "Выпуск 8",
+    "image": "http://gs.irev.ru/chapter/13.jpg",
+    "image2x": "http://gs.irev.ru/chapter/2x_13.jpg",
+    "imageIPad": "http://gs.irev.ru/chapter/ipad_13.jpg",
+    "topBarImageIPad": "http://gs.irev.ru/chapter/tbiipad_13.png",
+    "topBarImage2x": "http://gs.irev.ru/chapter/tbi2x_13.png",
+    "topBarImage": "http://gs.irev.ru/chapter/tbi_13.png",
+    "productId": "com.iRevolution.GoraSamocvetov.volume8",
+    "episodes": {
+      "episode": [
+        {
+          "id": "44",
+          "number": "1",
+          "title": "Медвежьи истории",
+          "description": "По мотивам эвенкийской сказки (Сибирь). Три таежных истории про медведя, в которых он так или иначе повлиял на судьбу других животных: бурундуку полоски на спинке нацарапал, карася приплюснул, а кедровку наказал вечно худобой.",
+          "image": "http://gs.irev.ru/episode/44.jpg",
+          "image2x": "http://gs.irev.ru/episode/2x_44.jpg",
+          "imageIPad": "http://gs.irev.ru/episode/ipad_44.jpg",
+          "free": "NO",
+          "videoURL": "http://gs.irev.ru/episode/video_44.mp4",
+          "videoURL2x": "http://gs.irev.ru/episode/video2x_44.mp4"
+        },
+        {
+          "id": "45",
+          "number": "2",
+          "title": "Майма-долгожданный",
+          "description": "По мотивам ненецкой сказки. Сказка про то, как ненецкий юноша по имени Майма задумал покорить воздушное пространство, чтобы сразиться с внеземным существом, укравшим людей.",
+          "image": "http://gs.irev.ru/episode/45.jpg",
+          "image2x": "http://gs.irev.ru/episode/2x_45.jpg",
+          "imageIPad": "http://gs.irev.ru/episode/ipad_45.jpg",
+          "free": "NO",
+          "videoURL": "http://gs.irev.ru/episode/video_45.mp4",
+          "videoURL2x": "http://gs.irev.ru/episode/video2x_45.mp4"
+        },
+        {
+          "id": "46",
+          "number": "3",
+          "title": "Про Степана-кузнеца",
+          "description": "По мотивам казачьей сказки. Сказка про то, как кузнец Степан вернул людям Месяц, Звезды, Солнце и взял в жены дочь атамана.",
+          "image": "http://gs.irev.ru/episode/46.jpg?1318949536",
+          "image2x": "http://gs.irev.ru/episode/2x_46.jpg?1318949536",
+          "imageIPad": "http://gs.irev.ru/episode/ipad_46.jpg?1318949536",
+          "free": "NO",
+          "videoURL": "http://gs.irev.ru/episode/video_46.mp4",
+          "videoURL2x": "http://gs.irev.ru/episode/video2x_46.mp4"
+        },
+        {
+          "id": "47",
+          "number": "4",
+          "title": "Гордый мыш",
+          "description": "По мотивам осетинской сказки. Сказка про то, как мышонок искал себе подходящую невесту.",
+          "image": "http://gs.irev.ru/episode/47.jpg",
+          "image2x": "http://gs.irev.ru/episode/2x_47.jpg",
+          "imageIPad": "http://gs.irev.ru/episode/ipad_47.jpg",
+          "free": "NO",
+          "videoURL": "http://gs.irev.ru/episode/video_47.mp4",
+          "videoURL2x": "http://gs.irev.ru/episode/video2x_47.mp4"
+        },
+        {
+          "id": "48",
+          "number": "5",
+          "title": "Чепоги",
+          "description": "По мотивам корейской сказки. Давным-давно жил бедняк Ким. Зимой он зарабатывал себе на жизнь, собирая в лесу хворост. А когда приходила весна, он ловил рыбу, рассчитывая обменять ее на много-много риса. К несчастью, вся пойманная рыба пропадала. Ким решил во что бы то ни стало поймать вора.",
+          "image": "http://gs.irev.ru/episode/48.jpg?1318949559",
+          "image2x": "http://gs.irev.ru/episode/2x_48.jpg?1318949559",
+          "imageIPad": "http://gs.irev.ru/episode/ipad_48.jpg?1318949559",
+          "free": "NO",
+          "videoURL": "http://gs.irev.ru/episode/video_48.mp4",
+          "videoURL2x": "http://gs.irev.ru/episode/video2x_48.mp4"
+        },
+        {
+          "id": "62",
+          "number": "6",
+          "title": "Егорий Храбрый",
+          "description": "Сказ о Егории Храбром (по мотивам русских народных духовных сказок).",
+          "image": "http://gs.irev.ru/episode/62.jpg",
+          "image2x": "http://gs.irev.ru/episode/2x_62.jpg",
+          "imageIPad": "http://gs.irev.ru/episode/ipad_62.jpg",
+          "free": "NO",
+          "videoURL": "http://gs.irev.ru/episode/video_62.mp4",
+          "videoURL2x": "http://gs.irev.ru/episode/video2x_62.mp4"
+        }
+      ]
+    }
+  },
+  {
+    "id": "14",
+    "number": "9",
+    "title": "Выпуск 9",
+    "image": "http://gs.irev.ru/chapter/14.jpg?1318949729",
+    "image2x": "http://gs.irev.ru/chapter/2x_14.jpg?1318949729",
+    "imageIPad": "http://gs.irev.ru/chapter/ipad_14.jpg?1318949729",
+    "topBarImageIPad": "http://gs.irev.ru/chapter/tbiipad_14.png",
+    "topBarImage2x": "http://gs.irev.ru/chapter/tbi2x_14.png",
+    "topBarImage": "http://gs.irev.ru/chapter/tbi_14.png",
+    "productId": "com.iRevolution.GoraSamocvetov.volume9",
+    "episodes": {
+      "episode": [
+        {
+          "id": "51",
+          "number": "1",
+          "title": "Проделки лиса",
+          "description": "По мотивам хантской сказки (Западная Сибирь). Долгое время на бескрайних просторах тундры люди и лисы жили в мире и согласии. Они вместе охотились и во все помогали друг другу. Но появился коварный и ленивый лис, который поставил под удар древнюю дружбу.\n\t\t\t\t",
+          "image": "http://gs.irev.ru/episode/51.jpg?1318949595",
+          "image2x": "http://gs.irev.ru/episode/2x_51.jpg?1318949595",
+          "imageIPad": "http://gs.irev.ru/episode/ipad_51.jpg?1318949595",
+          "free": "NO",
+          "videoURL": "http://gs.irev.ru/episode/video_51.mp4",
+          "videoURL2x": "http://gs.irev.ru/episode/video2x_51.mp4"
+        },
+        {
+          "id": "50",
+          "number": "2",
+          "title": "Козья хатка",
+          "description": "По мотивам русской сказки (Брянская область). Это весёлая музыкальная история для детей. В ней рассказывается о том, как в диковинный домик, в лесу, к трём весёлым и работящим козам, случайно попал вредный мальчик Василёк. И что козы с Васильком всё-таки подружились и стали дружно жить вместе. И вот с тех пор, люди начали разводить у себя коз.",
+          "image": "http://gs.irev.ru/episode/50.jpg",
+          "image2x": "http://gs.irev.ru/episode/2x_50.jpg",
+          "imageIPad": "http://gs.irev.ru/episode/ipad_50.jpg",
+          "free": "NO",
+          "videoURL": "http://gs.irev.ru/episode/video_50.mp4",
+          "videoURL2x": "http://gs.irev.ru/episode/video2x_50.mp4"
+        },
+        {
+          "id": "49",
+          "number": "3",
+          "title": "Пумасипа",
+          "description": "По мотивам сказки народов Манси. Сказка о двух охотниках, которые добиваются любви прекрасной девушки. Во время полного опасностей путешествия каждый должен проявить свои самые лучшие качества. Девушка выбирает достойного, а недостойный несет заслуженное наказание.",
+          "image": "http://gs.irev.ru/episode/49.jpg",
+          "image2x": "http://gs.irev.ru/episode/2x_49.jpg",
+          "imageIPad": "http://gs.irev.ru/episode/ipad_49.jpg",
+          "free": "NO",
+          "videoURL": "http://gs.irev.ru/episode/video_49.mp4",
+          "videoURL2x": "http://gs.irev.ru/episode/video2x_49.mp4"
+        },
+        {
+          "id": "53",
+          "number": "4",
+          "title": "После…",
+          "description": "По мотивам сказки горных татов. Сказка о любви, которая преодолевает все препятствия. Красавица, разлученная со своим женихом, спасается бегством от воздыхателей, пока наконец не встречается с возлюбленным. Это сказка-приключение – каскад событий, недоразумений, где абсурдность ситуации нарастает от драмы к фарсу.\n\t\t\t\t",
+          "image": "http://gs.irev.ru/episode/53.jpg",
+          "image2x": "http://gs.irev.ru/episode/2x_53.jpg",
+          "imageIPad": "http://gs.irev.ru/episode/ipad_53.jpg",
+          "free": "NO",
+          "videoURL": "http://gs.irev.ru/episode/video_53.mp4",
+          "videoURL2x": "http://gs.irev.ru/episode/video2x_53.mp4"
+        },
+        {
+          "id": "52",
+          "number": "5",
+          "title": "Собачий барин",
+          "description": "По мотивам русской сказки. Сказка про то, как мужик по приговору суда служил у вздорного барина… собакой, но потом проучил злого хозяина за все обиды.",
+          "image": "http://gs.irev.ru/episode/52.jpg",
+          "image2x": "http://gs.irev.ru/episode/2x_52.jpg",
+          "imageIPad": "http://gs.irev.ru/episode/ipad_52.jpg",
+          "free": "NO",
+          "videoURL": "http://gs.irev.ru/episode/video_52.mp4",
+          "videoURL2x": "http://gs.irev.ru/episode/video2x_52.mp4"
+        },
+        {
+          "id": "61",
+          "number": "6",
+          "title": "Про Василия Блаженного",
+          "description": "Рассказ о жизни русского святого Василия Блаженного.",
+          "image": "http://gs.irev.ru/episode/61.jpg",
+          "image2x": "http://gs.irev.ru/episode/2x_61.jpg",
+          "imageIPad": "http://gs.irev.ru/episode/ipad_61.jpg",
+          "free": "NO",
+          "videoURL": "http://gs.irev.ru/episode/video_61.mp4",
+          "videoURL2x": "http://gs.irev.ru/episode/video2x_61.mp4"
+        }
+      ]
+    }
+  },
+  {
+    "id": "15",
+    "number": "10",
+    "title": "Выпуск 10",
+    "image": "http://gs.irev.ru/chapter/15.jpg",
+    "image2x": "http://gs.irev.ru/chapter/2x_15.jpg",
+    "imageIPad": "http://gs.irev.ru/chapter/ipad_15.jpg",
+    "topBarImageIPad": "http://gs.irev.ru/chapter/tbiipad_15.png",
+    "topBarImage2x": "http://gs.irev.ru/chapter/tbi2x_15.png",
+    "topBarImage": "http://gs.irev.ru/chapter/tbi_15.png",
+    "productId": "com.iRevolution.GoraSamocvetov.volume10",
+    "episodes": {
+      "episode": [
+        {
+          "id": "54",
+          "number": "1",
+          "title": "Рогатый хан",
+          "description": "По мотивам калмыцкой сказки. Сказка о калмыцком юноше, которого чуть не погубил злой хан, потому что юноша узнал о его тайне. Смелому юноше пришлось пройти многие испытания, встретиться с огромной змеей, колдуньей, большим волком, победить в единоборстве с ханом, чтобы вернуться домой к своей маме.",
+          "image": "http://gs.irev.ru/episode/54.jpg",
+          "image2x": "http://gs.irev.ru/episode/2x_54.jpg",
+          "imageIPad": "http://gs.irev.ru/episode/ipad_54.jpg",
+          "free": "NO",
+          "videoURL": "http://gs.irev.ru/episode/video_54.mp4",
+          "videoURL2x": "http://gs.irev.ru/episode/video2x_54.mp4"
+        },
+        {
+          "id": "55",
+          "number": "2",
+          "title": "Про собаку Розку",
+          "description": "По мотивам русской сказки. Сказка о маленькой собачке, которая выгнала из деревни жадного приказчика.",
+          "image": "http://gs.irev.ru/episode/55.jpg",
+          "image2x": "http://gs.irev.ru/episode/2x_55.jpg",
+          "imageIPad": "http://gs.irev.ru/episode/ipad_55.jpg",
+          "free": "NO",
+          "videoURL": "http://gs.irev.ru/episode/video_55.mp4",
+          "videoURL2x": "http://gs.irev.ru/episode/video2x_55.mp4"
+        },
+        {
+          "id": "56",
+          "number": "3",
+          "title": "Похождения Лиса",
+          "description": "По мотивам эвенкийской сказки (Сибирь). Сказка про хитрого и жадного лиса. И всё ему мало было, зарился он и на чужое добро. Всех обманывал – и соседей, и встречных, кто ему доброе делал. Да только собрались все обиженные и сами Лиса обхитрили – да так, что он посмешищем стал, и от жены горячих получил.",
+          "image": "http://gs.irev.ru/episode/56.jpg",
+          "image2x": "http://gs.irev.ru/episode/2x_56.jpg",
+          "imageIPad": "http://gs.irev.ru/episode/ipad_56.jpg",
+          "free": "NO",
+          "videoURL": "http://gs.irev.ru/episode/video_56.mp4",
+          "videoURL2x": "http://gs.irev.ru/episode/video2x_56.mpg"
+        },
+        {
+          "id": "57",
+          "number": "4",
+          "title": "Лягушка и муравьи",
+          "description": "По мотивам алтайской сказки. Ироничная, трогательная сказка о понимании основ человеческих взаимоотношений, о необходимости предвидеть последствия своих обещаний и поступков.",
+          "image": "http://gs.irev.ru/episode/57.jpg",
+          "image2x": "http://gs.irev.ru/episode/2x_57.jpg",
+          "imageIPad": "http://gs.irev.ru/episode/ipad_57.jpg",
+          "free": "NO",
+          "videoURL": "http://gs.irev.ru/episode/video_57.mp4",
+          "videoURL2x": "http://gs.irev.ru/episode/video2x_57.mp4"
+        },
+        {
+          "id": "58",
+          "number": "5",
+          "title": "Солдатская песня",
+          "description": "По мотивам русской сказки. Сказка о службе солдат в гарнизоне, и об их ангелах-хранителях. Всё бы хорошо – да случилась беда. Переполошились ангелы – стали выяснять что да как и поняли, что завелся вор в гарнизоне. И сговорились ангелы-хранители вора усовестить и позора на люди не выносить.",
+          "image": "http://gs.irev.ru/episode/58.jpg",
+          "image2x": "http://gs.irev.ru/episode/2x_58.jpg",
+          "imageIPad": "http://gs.irev.ru/episode/ipad_58.jpg",
+          "free": "NO",
+          "videoURL": "http://gs.irev.ru/episode/video_58.mp4",
+          "videoURL2x": "http://gs.irev.ru/episode/video2x_58.mp4"
+        },
+        {
+          "id": "59",
+          "number": "6",
+          "title": "Зубы, хвост и уши",
+          "description": "Мультинародная (Россия, Китай, Эстония) сказка про особенности разных животных.",
+          "image": "http://gs.irev.ru/episode/59.jpg",
+          "image2x": "http://gs.irev.ru/episode/2x_59.jpg",
+          "imageIPad": "http://gs.irev.ru/episode/ipad_59.jpg",
+          "free": "NO",
+          "videoURL": "http://gs.irev.ru/episode/video_59.mp4",
+          "videoURL2x": "http://gs.irev.ru/episode/video2x_59.mp4"
+        }
+      ]
+    }
+  }
+]
