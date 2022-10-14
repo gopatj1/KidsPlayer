@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">eralash.irev.ru</domain>
+        <domain includeSubdomains="true">gs2.irev.ru</domain>
+        <domain includeSubdomains="true">toe.irev.ru</domain>
+        <domain includeSubdomains="true">tk.irev.ru</domain>
+        <domain includeSubdomains="true">tsb.irev.ru</domain>
+        <domain includeSubdomains="true">pkv.irev.ru</domain>
+        <domain includeSubdomains="true">bis.irev.ru</domain>
+        <domain includeSubdomains="true">les.irev.ru</domain>
+        <domain includeSubdomains="true">vp.irev.ru</domain>
+    </domain-config>
+</network-security-config>

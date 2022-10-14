@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Гора Самоцветов</string>
+    <string name="time_line">Лента времени</string>
+    <string name="doska_pocheta">Доска почета</string>
+    <string name="mult_streaming">Трансляция</string>
+    <string name="favorite">Любимые</string>
+    <string name="prokat">Еще…</string>
+    <string name="all_mults">Мультики</string>
+    <string name="song">Песни</string>
+    <string name="popular">Популярные</string>
+    <string name="menu_floating">Размещение мультиков</string>
+    <string name="nabors_catalog">Наборы ( </string>
+    <string name="mults_catalog">Мультфильмы ( </string>
+    <string name="songs_catalog">Песни ( </string>
+    <string name="favourites_catalog">Любимые ( </string>
+    <string name="streaming_catalog">Трансляция ( </string>
+    <string name="vipuski_catalog">Выпуски ( </string>
+    <string name="persons_catalog">Персоны ( </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_settings">Настройки</string>
+    <string name="parental_control_title">Родительский контроль</string>
+    <string name="parental_controls_question">Сколько будет 5+3?</string>
+    <string name="payment_3month">Оформить подписку\nна 3 месяца\nза %1$s</string>
+    <string name="payment_1month">Оформить подписку\nна месяц\nза %1$s</string>
+    <string name="payment_all">Купить все\nмультфильмы\nза %1$s</string>
+    <string name="payment_activity_3month">Оформить подписку\nна 3 месяцаа\nза 299,00 ₽</string>
+    <string name="payment_activity_1month">Оформить подписку\nна месяц\nза 149,00 ₽</string>
+    <string name="payment_activity_all">Купить все\nмультфильмы\nза 999,00 ₽</string>
+    <string name="recovery_purchases"><u>ВОССТАНОВИТЬ ПОКУПКИ</u></string>
+    <string name="no_downloaded_mults">Нет скачанных мультфильмов</string>
+    <string name="no_mults">Мультфильм не найден</string>
+    <string name="no_mults_nabor">Набор мультфильмов не найден</string>
+    <string name="press_to_turn_player">Нажми и удерживай, чтобы свернуть плеер.</string>
+    <string name="streaming_already_start">Доступны мультфильмы для просмотра</string>
+    <string name="prokat_attention_message">ВНИМНИЕ! Покупка или подписка на мультфильмы киностудии «ТО «ЭКРАН» не распространяется на видеопродукцию данного раздела</string>
+    <string name="prokat_attention_message_gs">ВНИМАНИЕ! Покупка или подписка на мультфильмы «Гора самоцветов» не распространяется на видеопродукцию данного раздела.</string>
+    <string name="prokat_tatarsky_info_gs">Советский и российский режиссёр-мультипликатор, художник и продюсер. Заслуженный деятель искусств РФ, лауреат Государственной премии
+        РФ в области литературы и искусства, лауреат премии «Ника».\n\nВ 1988 году вместе с Игорем Ковалёвым и Анатолием Прохоровым основал Московскую студию «Пилот» (Школа новых экранных технологий),
+        где взял на себя роль художественного руководителя.\n\nСтудия «Пилот» стала первой независимой киностудией в Советском Союзе.</string>
+</resources>

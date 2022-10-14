@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#607d8b</color>
+    <color name="colorPrimaryDark">#4d646f</color>
+    <color name="colorAccent">#4cb5ab</color>
+    <color name="grayColor">#737373</color>
+    <color name="gray_light">#d4d4d4</color>
+    <color name="item_playlist_card_gray_light">#d4d4d4</color>
+    <color name="item_playlist_card_yellow_line">#BFFEFFDE</color>
+
+    <color name="text_color_white">#fff</color>
+    <color name="text_color_gray">#999</color>
+    <color name="black">#000</color>
+    <color name="black_light">#4a4a4a</color>
+    <color name="black_80">#33000000</color>
+    <color name="black_50">#80000000</color>
+    <color name="green">@color/colorAccent</color>
+    <color name="splash_window_background">#517275</color>
+    <color name="window_background">#eee</color>
+
+    <color name="white_dark">#eeeeee</color>
+    <color name="white">#ffffff</color>
+    <color name="yellow">#f4b400</color>
+    <color name="yellow_pressed">#d49400</color>
+    <color name="red">#ff5252</color>
+    <color name="red_light">#f0dede</color>
+    <color name="red_pressed">#df3232</color>
+    <color name="light_blue">#6DCFF6</color>
+    <color name="light_blue_pressed">#4DAFD6</color>
+    <color name="light_green">#C4DF9B</color>
+    <color name="light_green_pressed">#A4BF7B</color>
+    <color name="light_gray">#9B9B9B</color>
+
+    <color name="black_overlay">#29000000</color>
+
+    <color name="violet">#7c6ebf</color>
+    <color name="circle_progress">#ff6a24</color>
+
+    <color name="violet_dark">#773eab</color>
+    <color name="bis_bg_toolbar">#456FB0</color>
+
+    <color name="payment_cloud_text">#a61303</color>
+    <color name="payment_background_text">#b1d525</color>
+    <color name="payment_tickets_text">#000</color>
+
+    <color name="yellow_back">#f3f6df</color>
+    <color name="yellow_back_eralash_playlists">#0086D4</color>
+    <color name="yellow_beige">#eaedd9</color>
+    <color name="violet_song_background">#d5ccf5</color>
+
+    <color name="custom_toolbar_text_color">@color/white</color>
+    <color name="custom_toolbar_text_color_selected">@color/white</color>
+    <color name="custom_toolbar_title_color">@color/white</color>
+
+    <!--<color name="custom_toolbar_text_color">@color/black</color>
+    <color name="custom_toolbar_text_color_selected">#8f5db7</color>
+    <color name="custom_toolbar_title_color">#462465</color>-->
+
+    <color name="prokat_item_text_name">@color/black</color>
+    <color name="prokat_attention">#FE8723</color>
+    <color name="prokat_gs_top_text">#FFFB71</color>
+    <color name="prokat_downloading">#4A90E2</color>
+
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_titles">
+        <item>Восстановить покупки</item>
+        <item>Зацикливание просмотра</item>
+        <item>Реклама в приложении</item>
+        <item>«Смотреть!» при старте приложения</item>
+        <item>«Баю-бай» в разделе трансляция</item>
+        <item>Закрыть доступ к мультикам после 22:00</item>
+        <item>Проигрывать видео-заставку</item>
+        <item>Движение пиктограмм</item>
+        <item>Звуковые эффекты</item>
+        <item>Другие наши приложения</item>
+    </string-array>
+    <integer-array name="settings_switch">
+        <item>0</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>0</item>
+    </integer-array>
+</resources>
