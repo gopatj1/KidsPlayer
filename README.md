@@ -4,6 +4,7 @@ A convenient video player for watching children's cartoons online. It has a huge
 <p align="left">
   <img src="1.PNG" width="350"/><br><br>
   <img src="2.PNG" width="350"/><br><br>
-  <img src="3.PNG" width="350"/>
-  <img src="4.PNG" width="350"/>
+  <img src="3.PNG" width="350"/><br><br>
+  <img src="4.PNG" width="350"/><br><br>
+  <img src="5.PNG" width="350"/>
 </p>
