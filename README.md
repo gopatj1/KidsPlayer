@@ -8,5 +8,6 @@ A convenient video player for watching children's cartoons online. It has a huge
   <img src="2.png" width="350"/><br><br>
   <img src="3.png" width="350"/><br><br>
   <img src="4.png" width="350"/><br><br>
+  <img src="6.png" width="350"/><br><br>
   <img src="5.png" width="350"/>
 </p>
